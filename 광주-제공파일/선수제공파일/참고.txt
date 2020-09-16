@@ -1,0 +1,2 @@
+- currentExchangeRate.php 현재 JSON. PHP 배열로 처리하여 추가 가능하도록 만들기.
+- location.php 테스트
